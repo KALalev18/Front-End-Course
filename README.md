@@ -8,8 +8,8 @@ Kristian Lalev
 4. Fron Extensions, download LiveServer if you don't have it downloaded.
 5. In index.html, right-click and Open with LiveServer.
 
-Learning diary is in the repository
+Learning diary is in the repository.
 
 Webiste link: [https://steady-sprite-0c1953.netlify.app/](https://steady-sprite-0c1953.netlify.app/)
 
-Video: video link
+Video: [video link](https://youtu.be/784VM2V8sog)
